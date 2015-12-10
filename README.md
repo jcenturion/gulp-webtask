@@ -1,5 +1,7 @@
 # gulp-webtask
 
+[![Build Status](https://travis-ci.org/jcenturion/gulp-webtask.png)](https://travis-ci.org/jcenturion/gulp-webtask)
+
 [Gulp](http://gulpjs.com/) plugin to help you with [Webtask](https://webtask.io/) development.
 
 ## Installation
