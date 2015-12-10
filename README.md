@@ -1,6 +1,9 @@
 # gulp-webtask
 
+[![NPM version](http://img.shields.io/npm/v/gulp-webtask.svg)](https://www.npmjs.com/package/gulp-webtask)
 [![Build Status](https://travis-ci.org/jcenturion/gulp-webtask.png)](https://travis-ci.org/jcenturion/gulp-webtask)
+[![Dependency Status](https://img.shields.io/david/jcenturion/gulp-webtask.svg?label=deps)](https://david-dm.org/jcenturion/gulp-webtask)
+[![devDependency Status](https://img.shields.io/david/dev/jcenturion/gulp-webtask.svg?label=devDeps)](https://david-dm.org/jcenturion/gulp-webtask#info=devDependencies)
 
 [Gulp](http://gulpjs.com/) plugin to help you with [Webtask](https://webtask.io/) development.
 
