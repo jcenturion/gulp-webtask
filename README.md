@@ -29,7 +29,7 @@ gulp.task('deploy', function () {
 });
 ```
 
-#### Configuring a multiple webtasks
+#### Configuring multiple webtasks
 
 ```javascript
 var gulp = require('gulp');
