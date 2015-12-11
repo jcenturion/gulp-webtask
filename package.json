@@ -1,6 +1,6 @@
 {
   "name": "gulp-webtask",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A gulp pluging to help with Webtasks",
   "main": "index.js",
   "scripts": {

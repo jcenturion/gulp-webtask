@@ -50,8 +50,8 @@ module.exports = {
 
         wt.create(file.contents.toString(), {
           name:    wtName,
-          secrets: opt.secret || {},
-          params:  opt.param || {},
+          secrets: opt.secrets || {},
+          params:  opt.params || {},
           parse:   opt.parse,
           merge:   opt.merge
         })
