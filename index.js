@@ -63,7 +63,7 @@ module.exports = {
         })
         .catch(function (error) {
           this.emit('error', new PluginError(PLUGIN_NAME, error));
-        });
+        }.bind(this));
       } catch(error) {
         this.emit('error', new PluginError(PLUGIN_NAME, error));
       }
